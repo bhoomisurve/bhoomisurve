@@ -31,15 +31,7 @@ me.say_hi()
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
-## 🔭 What I'm Currently Working On
 
-<div align="left">
-  
-  🤖 **AI/ML Projects** - Building chatbots, NLP solutions, and recommendation systems  
-  ⛓️ **Blockchain Solutions** - Exploring real-world blockchain applications  
-  📚 **Learning Journey** - Advanced ML concepts and cloud deployments  
-  
-</div>
 
 ## 🛠️ Tech Stack & Tools
 
@@ -78,9 +70,6 @@ me.say_hi()
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
-</div>
 
 ## 📊 GitHub Analytics
 
@@ -103,10 +92,6 @@ me.say_hi()
 
 I'm always excited to collaborate on **open-source AI/ML projects** and **innovative ideas** that combine AI, data, and real-world use cases!
 
-### 🔍 Areas I'm exploring:
-- **MLOps & Cloud Deployments** ☁️
-- **Advanced LLM Fine-tuning** 🔧
-- **Scalable System Architecture** 🏗️
 
 </div>
 
@@ -150,21 +135,13 @@ I'm always excited to collaborate on **open-source AI/ML projects** and **innova
 
 <div align="center">
   
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800">
   
-  ### ⚡ Fun Fact
-  **I believe in "Learn, Build, Share" — Consistency is the real superpower! 🚀**
+  
   
   ![Visitor Count](https://komarev.com/ghpvc/?username=bhoomisurve&color=blue&style=for-the-badge)
   
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+ <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800">
+  
   
 </div>
 
----
-
-<div align="center">
-  
-  **"Building the future, one commit at a time"** 💫
-  
-</div>
