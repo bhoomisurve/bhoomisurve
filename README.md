@@ -99,16 +99,6 @@ I'm always excited to collaborate on **open-source AI/ML projects** and **innova
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600">
 </div>
 
-## 💬 Ask Me About
-
-<div align="center">
-  
-  🐍 **Python & SQL Development**  
-  🤖 **AI/ML & NLP Solutions**  
-  🚀 **Getting Started with Projects & Hackathons**  
-  🌐 **Deploying Apps with Flask/FastAPI**  
-  
-</div>
 
 ## 🌐 Connect With Me
 
