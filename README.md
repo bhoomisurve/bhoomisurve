@@ -15,10 +15,9 @@ class BhoomikaSurve:
     def __init__(self):
         self.name = "Bhoomika Surve"
         self.role = "Final-year Computer Engineering Student"
-        self.location = "India"
         self.passions = ["AI/ML", "Python Development", "Problem Solving"]
         self.current_focus = ["Generative AI", "NLP", "Data-driven Applications"]
-        self.philosophy = "Learn, Build, Share - Consistency is the real superpower 🚀"
+        self.philosophy = "I am crazy enough to make it happen"
     
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
