@@ -38,8 +38,9 @@ me.say_hi()
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bhoomikaaahh)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:survebhoomika@gmail.com)
-  ### 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,postgres,aws,git,linux)](https://skillicons.dev)
+
+### 🛠️ Languages & Tools
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,mysql,solidity,javascript,fastapi,firebase,flask,dynamodb,pytorch,opencv,mongodb,netlify,django,pycharm,sqlite,tensorflow,sklearn,postgres,aws,anaconda,matlab,git)](https://skillicons.dev)
 
   
   
